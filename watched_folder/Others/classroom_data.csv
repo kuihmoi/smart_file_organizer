@@ -1,0 +1,10 @@
+building,room_number,capacity
+A,B101,10
+A,B102,20
+A,B103,30
+A,B104,30
+B,B201,40
+B,B202,70
+B,B203,10
+C,B301,50
+D,B101,60
